@@ -28,4 +28,6 @@ public class JokeController {
         return jokeService.findByRating(rating);
     }
 
+
+
 }
